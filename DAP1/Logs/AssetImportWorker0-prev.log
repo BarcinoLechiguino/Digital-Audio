@@ -1,177 +1,1143 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'es' Physical Memory: 16333 MB
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'es' Physical Memory: 16227 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+D:\GUILLEM\Unity\Editors Path\2021.1.7f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/angot/Documents/GitHub/Digital-Audio/Digital Audio Practice I
+D:/GUILLEM/UPC/20-21/DigitalAudio/Digital-Audio/DAP1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63262
-Successfully changed project path to: C:/Users/angot/Documents/GitHub/Digital-Audio/Digital Audio Practice I
-C:/Users/angot/Documents/GitHub/Digital-Audio/Digital Audio Practice I
+58460
+Successfully changed project path to: D:/GUILLEM/UPC/20-21/DigitalAudio/Digital-Audio/DAP1
+D:/GUILLEM/UPC/20-21/DigitalAudio/Digital-Audio/DAP1
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 117.17 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 95.38 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/angot/Documents/GitHub/Digital-Audio/Digital Audio Practice I/Assets
+[Subsystems] Discovering subsystems at path D:/GUILLEM/Unity/Editors Path/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GUILLEM/UPC/20-21/DigitalAudio/Digital-Audio/DAP1/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
     Vendor:   NVIDIA
-    VRAM:     4043 MB
-    Driver:   27.21.14.5671
+    VRAM:     6052 MB
+    Driver:   24.21.13.9835
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
+Mono path[0] = 'D:/GUILLEM/Unity/Editors Path/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/GUILLEM/Unity/Editors Path/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/GUILLEM/Unity/Editors Path/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56508
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002054 seconds.
+Register platform support module: D:/GUILLEM/Unity/Editors Path/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002444 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 89.77 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 189.52 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.509 seconds
+- Completed reload, in  2.912 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003220 seconds.
+Registered in 0.007829 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\angot\Documents\GitHub\Digital-Audio\Digital Audio Practice I\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\angot\Documents\GitHub\Digital-Audio\Digital Audio Practice I\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
-PlayerSettings Validation: Requested build target group (20) doesn't exist; #define symbols for scripting won't be added.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.PlayerSettings:SetScriptingDefineSymbolsForGroup (UnityEditor.BuildTargetGroup,string)
-UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:SetEnabled (string,bool,bool) (at Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:127)
-UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:.cctor () (at Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:22)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs line 127]
-
-PlayerSettings Validation: Requested build target group (17) doesn't exist; #define symbols for scripting won't be added.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.PlayerSettings:SetScriptingDefineSymbolsForGroup (UnityEditor.BuildTargetGroup,string)
-UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:SetEnabled (string,bool,bool) (at Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:127)
-UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:.cctor () (at Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:22)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs line 127]
-
 Mono: successfully reloaded assembly
-- Completed reload, in  1.204 seconds
+- Completed reload, in  1.923 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2723 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.1 MB.
-System memory in use after: 112.2 MB.
+System memory in use before: 111.6 MB.
+System memory in use after: 111.8 MB.
 
 Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3192.
-Total: 2.251700 ms (FindLiveObjects: 0.283500 ms CreateObjectMapping: 0.172400 ms MarkObjects: 1.715000 ms  DeleteObjects: 0.079700 ms)
+Total: 2.514600 ms (FindLiveObjects: 0.231800 ms CreateObjectMapping: 0.150800 ms MarkObjects: 1.940200 ms  DeleteObjects: 0.190600 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Torch_Small_Fire.prefab
   artifactKey: Guid(ce91a65904eb3184996bcc9485b7e832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Torch_Small_Fire.prefab using Guid(ce91a65904eb3184996bcc9485b7e832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d57b0ab9d9b4254785ccd049fa290d') in 0.100885 seconds 
+Start importing Assets/Torch_Small_Fire.prefab using Guid(ce91a65904eb3184996bcc9485b7e832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc12f6cec360f235e91c8b9318f25a17') in 0.063972 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000273 seconds.
+  Time since last request: 0.000298 seconds.
   path: Assets/New Terrain 2.asset
   artifactKey: Guid(d1f3389f08092e9459bcaf948a36357b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain 2.asset using Guid(d1f3389f08092e9459bcaf948a36357b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5ace01eeddd0b1ad902208dd4d358c') in 0.062422 seconds 
+Start importing Assets/New Terrain 2.asset using Guid(d1f3389f08092e9459bcaf948a36357b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cce03617be1aaeb6a35b5497e41026d') in 0.092935 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000275 seconds.
+  Time since last request: 0.000297 seconds.
   path: Assets/Torchlight + SFX.prefab
   artifactKey: Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Torchlight + SFX.prefab using Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b2ac862d7db5b2a78fa8476c6badd78') in 0.004773 seconds 
+Start importing Assets/Torchlight + SFX.prefab using Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b50af3b8771bf969303e5c26e03fd76') in 0.006955 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000270 seconds.
+  Time since last request: 0.000419 seconds.
   path: Assets/Terrain (1).prefab
   artifactKey: Guid(4ca3b1b608df6254cac58dbae5b63f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain (1).prefab using Guid(4ca3b1b608df6254cac58dbae5b63f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9972ea1f45d65ed22e8e80a8a9bcd712') in 0.004116 seconds 
+Start importing Assets/Terrain (1).prefab using Guid(4ca3b1b608df6254cac58dbae5b63f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e78d4b0a85d8c02682da44acd3fc5f') in 0.007800 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000421 seconds.
+  Time since last request: 0.000541 seconds.
   path: Assets/Torchlight Vanilla.prefab
   artifactKey: Guid(b59475a86bcdee6429c62011f624800c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Torchlight Vanilla.prefab using Guid(b59475a86bcdee6429c62011f624800c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf46a006a15fffc398c3305329d9a7a') in 0.004898 seconds 
+Start importing Assets/Torchlight Vanilla.prefab using Guid(b59475a86bcdee6429c62011f624800c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35cbbec870386b933e2b085d2d60fbf') in 0.006072 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000248 seconds.
+  Time since last request: 0.000684 seconds.
   path: Assets/Torchlight + SFX 2.prefab
   artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be02f22e05bd635263f607b67f7cefb0') in 0.004157 seconds 
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3916b36e545c67b63429ef7585dda6') in 0.008858 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000247 seconds.
+  Time since last request: 0.000371 seconds.
   path: Assets/Torch_Embers.prefab
   artifactKey: Guid(c08bbd0e55fcb064cb34e2659cd9946f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Torch_Embers.prefab using Guid(c08bbd0e55fcb064cb34e2659cd9946f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c4478cf7ee30d3a97398d5f1c5ea1e0') in 0.005186 seconds 
+Start importing Assets/Torch_Embers.prefab using Guid(c08bbd0e55fcb064cb34e2659cd9946f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115d2630e454a630b32d045d52aa1bbc') in 0.010508 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003399 seconds.
+Registered in 0.004691 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\angot\Documents\GitHub\Digital-Audio\Digital Audio Practice I\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\angot\Documents\GitHub\Digital-Audio\Digital Audio Practice I\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.47 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
-PlayerSettings Validation: Requested build target group (20) doesn't exist; #define symbols for scripting won't be added.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.PlayerSettings:SetScriptingDefineSymbolsForGroup (UnityEditor.BuildTargetGroup,string)
-UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:SetEnabled (string,bool,bool) (at Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:127)
-UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:.cctor () (at Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:22)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs line 127]
-
-PlayerSettings Validation: Requested build target group (17) doesn't exist; #define symbols for scripting won't be added.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.PlayerSettings:SetScriptingDefineSymbolsForGroup (UnityEditor.BuildTargetGroup,string)
-UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:SetEnabled (string,bool,bool) (at Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:127)
-UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:.cctor () (at Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:22)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs line 127]
-
 Mono: successfully reloaded assembly
-- Completed reload, in  1.330 seconds
+- Completed reload, in  1.608 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.2 MB.
+System memory in use after: 115.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3227.
+Total: 5.537500 ms (FindLiveObjects: 0.726900 ms CreateObjectMapping: 0.355100 ms MarkObjects: 4.364200 ms  DeleteObjects: 0.088900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003160 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.466 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.2 MB.
+System memory in use after: 115.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3230.
+Total: 2.919900 ms (FindLiveObjects: 0.211600 ms CreateObjectMapping: 0.123500 ms MarkObjects: 2.496600 ms  DeleteObjects: 0.087100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 413.439682 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f21e93e3d06064b961947d75c236010') in 0.021042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.982681 seconds.
+  path: Assets/Ambient.mixer
+  artifactKey: Guid(486b1c201ddf2e548b6e897622794660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambient.mixer using Guid(486b1c201ddf2e548b6e897622794660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3211ff3a3aa29a51ad77af2a906eca18') in 0.002275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.218078 seconds.
+  path: Assets/Background.mixer
+  artifactKey: Guid(66683325378ff77459adee98a8a82e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Background.mixer using Guid(66683325378ff77459adee98a8a82e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c2b373a2e29e8c4cecdd66bb370243') in 0.002212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.725372 seconds.
+  path: Assets/Torch.mixer
+  artifactKey: Guid(270ef632d2bcabd46bd3bbd2b08bde5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torch.mixer using Guid(270ef632d2bcabd46bd3bbd2b08bde5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c18506bbabf5c5f649e7ff53cba9b5') in 0.002180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.243641 seconds.
+  path: Assets/Torch.mixer
+  artifactKey: Guid(270ef632d2bcabd46bd3bbd2b08bde5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torch.mixer using Guid(270ef632d2bcabd46bd3bbd2b08bde5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c037b103f51855af57fd3d390e9343') in 0.002617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.491847 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665042e1fb08b73b60e0fd31e6a112d7') in 0.003967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.557641 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c013f271028328d557178e9b1d98245') in 0.002204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.052508 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3bc7d517b6dc6494dedd1e8f3ceb83') in 0.002144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.622370 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48495c7724ead1b0da31a5083c29fc20') in 0.003035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.130202 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c971e7fdd4f274c8679297bc11ac90d') in 0.001941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.645284 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47759b0540d12364bfb5df826ba2193') in 0.002030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.348161 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed873378ca5b84171371c3498cf134e0') in 0.002096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.507995 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a595dc3296df0d3e0fc52aa403f96b27') in 0.002472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.504551 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8691c2d580d1d70e7fa447dc9c50a1') in 0.002143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.398356 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8515d0da2ea5677c5adb507404353ea9') in 0.002758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.823814 seconds.
+  path: Assets/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ee96e8ca0931be29fbf26e3678fd0e') in 0.003271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 98.268514 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.001625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.856503 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(420105d02cb8d1b41bb425c859de23f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(420105d02cb8d1b41bb425c859de23f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad651eb94497b084bdef66a3e2b97dd2') in 0.001671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.874908 seconds.
+  path: Assets/Flames Of The Phoenix/Materials/Fire_Material_NoAnimation.mat
+  artifactKey: Guid(22c6a5b4cc5ff574cac06495b5f3ca4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flames Of The Phoenix/Materials/Fire_Material_NoAnimation.mat using Guid(22c6a5b4cc5ff574cac06495b5f3ca4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c52ce6d900c320c3abe99d2e25c718') in 0.209465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.187542 seconds.
+  path: Assets/Flames Of The Phoenix/Materials/Fire_Material_ShortAnimation.mat
+  artifactKey: Guid(721d968c02b519f48a9f4f5a4d69e871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flames Of The Phoenix/Materials/Fire_Material_ShortAnimation.mat using Guid(721d968c02b519f48a9f4f5a4d69e871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c989f5dba0b45efd336489ba49cfeedd') in 0.012067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.430139 seconds.
+  path: Assets/Torchlight + SFX 2.prefab
+  artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729b73efc5734632627a7ab86214cc8c') in 0.010363 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003745 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3272.
+Total: 2.692900 ms (FindLiveObjects: 0.278400 ms CreateObjectMapping: 0.163700 ms MarkObjects: 2.193500 ms  DeleteObjects: 0.056200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.682629 seconds.
+  path: Assets/Torchlight + SFX.prefab
+  artifactKey: Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX.prefab using Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f22144af0098b0069ef1407dd28ac83') in 0.025605 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002393 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.170 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3275.
+Total: 2.333500 ms (FindLiveObjects: 0.218800 ms CreateObjectMapping: 0.159500 ms MarkObjects: 1.899500 ms  DeleteObjects: 0.054600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.738720 seconds.
+  path: Assets/Torchlight + SFX 2.prefab
+  artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b41bc9bb5c255f91cd9f2cfef44e88') in 0.032014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.716709 seconds.
+  path: Assets/Torchlight + SFX 2.prefab
+  artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb561611304a23a8be1106ec2dba08b') in 0.006287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.038330 seconds.
+  path: Assets/Torchlight + SFX 2.prefab
+  artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e6434feab47aadd05fc2fc51f37016') in 0.004638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.040684 seconds.
+  path: Assets/Torchlight + SFX 2.prefab
+  artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9d697168ec26bee1bb0273ef0fab3be') in 0.005582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.508807 seconds.
+  path: Assets/Torchlight + SFX 2.prefab
+  artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe356b31cdf19bd96cac87b13bb7944') in 0.003446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.875900 seconds.
+  path: Assets/Torchlight + SFX 2.prefab
+  artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27143e387f9ae417f01380e122b4b9d') in 0.002824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.751510 seconds.
+  path: Assets/Torchlight + SFX 2.prefab
+  artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2db3db82c4c9dcb66d643be6684c43') in 0.003286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.926818 seconds.
+  path: Assets/Torchlight + SFX.prefab
+  artifactKey: Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX.prefab using Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a544aae927a35b7fffa59386553df7de') in 0.003076 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002559 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.089 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3278.
+Total: 2.257200 ms (FindLiveObjects: 0.228900 ms CreateObjectMapping: 0.127700 ms MarkObjects: 1.849500 ms  DeleteObjects: 0.050100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.717649 seconds.
+  path: Assets/Torchlight + SFX.prefab
+  artifactKey: Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX.prefab using Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd1eac9d6110a78adbca7d8bd297f15') in 0.026517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.067863 seconds.
+  path: Assets/Torchlight + SFX.prefab
+  artifactKey: Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX.prefab using Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8859c4d8c80f7d42f26f2c03617531e0') in 0.002878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.099762 seconds.
+  path: Assets/Torchlight + SFX.prefab
+  artifactKey: Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX.prefab using Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846795d26fdfc5efd47300e61ef3c430') in 0.003007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.448299 seconds.
+  path: Assets/Torchlight + SFX.prefab
+  artifactKey: Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX.prefab using Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c13c459cd36d832248df0a99ee215a') in 0.003105 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002359 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3281.
+Total: 4.306900 ms (FindLiveObjects: 0.579800 ms CreateObjectMapping: 0.313500 ms MarkObjects: 3.348000 ms  DeleteObjects: 0.064000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 366.666274 seconds.
+  path: Assets/Torchlight + SFX.prefab
+  artifactKey: Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX.prefab using Guid(c46efc61eb594ed4eaeab1c1164460ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1740464871eeb5f5530b67e785f37fae') in 0.028879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.993800 seconds.
+  path: Assets/Torchlight + SFX 2.prefab
+  artifactKey: Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Torchlight + SFX 2.prefab using Guid(ad6c243ec89ef5444a1896ac5cee99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295e47afdf876e4516e0c4d0696ea197') in 0.002654 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004761 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.004 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3284.
+Total: 2.931000 ms (FindLiveObjects: 0.229500 ms CreateObjectMapping: 0.187600 ms MarkObjects: 2.415100 ms  DeleteObjects: 0.097700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.523315 seconds.
+  path: Assets/Audio/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844d3adbeb983c7525d4a93646479be0') in 0.011503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.076609 seconds.
+  path: Assets/Audio/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81124a8700b234980ae5b742cfcae31') in 0.003218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 67.640293 seconds.
+  path: Assets/Dynamic Flickering Light
+  artifactKey: Guid(ba6bed61fa9e2134b860e4485b84a3e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dynamic Flickering Light using Guid(ba6bed61fa9e2134b860e4485b84a3e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '757e1c8491b89702633269f54b96cedf') in 0.001690 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002531 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.013 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3287.
+Total: 4.758400 ms (FindLiveObjects: 0.658400 ms CreateObjectMapping: 1.045400 ms MarkObjects: 2.982200 ms  DeleteObjects: 0.069900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004132 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.953 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3290.
+Total: 3.249100 ms (FindLiveObjects: 0.428800 ms CreateObjectMapping: 0.199800 ms MarkObjects: 2.530500 ms  DeleteObjects: 0.085800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002285 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.941 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3293.
+Total: 2.634200 ms (FindLiveObjects: 0.410500 ms CreateObjectMapping: 0.173300 ms MarkObjects: 1.994800 ms  DeleteObjects: 0.054100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002871 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3296.
+Total: 2.418000 ms (FindLiveObjects: 0.264500 ms CreateObjectMapping: 0.117800 ms MarkObjects: 1.982600 ms  DeleteObjects: 0.050200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003816 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.055 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3299.
+Total: 2.856400 ms (FindLiveObjects: 0.387900 ms CreateObjectMapping: 0.138100 ms MarkObjects: 2.269500 ms  DeleteObjects: 0.059700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002567 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3302.
+Total: 3.089900 ms (FindLiveObjects: 0.384700 ms CreateObjectMapping: 0.418100 ms MarkObjects: 2.192800 ms  DeleteObjects: 0.093300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002409 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.293 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3305.
+Total: 2.240100 ms (FindLiveObjects: 0.227400 ms CreateObjectMapping: 0.104600 ms MarkObjects: 1.854500 ms  DeleteObjects: 0.052600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002461 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.168 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3308.
+Total: 4.098000 ms (FindLiveObjects: 0.814500 ms CreateObjectMapping: 0.458000 ms MarkObjects: 2.734900 ms  DeleteObjects: 0.088800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002290 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3311.
+Total: 4.094700 ms (FindLiveObjects: 0.502300 ms CreateObjectMapping: 0.327300 ms MarkObjects: 3.193400 ms  DeleteObjects: 0.070200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003628 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.079 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3314.
+Total: 2.729100 ms (FindLiveObjects: 0.531200 ms CreateObjectMapping: 0.236600 ms MarkObjects: 1.905900 ms  DeleteObjects: 0.054300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002709 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.277 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3317.
+Total: 2.766700 ms (FindLiveObjects: 0.242600 ms CreateObjectMapping: 0.159000 ms MarkObjects: 2.270700 ms  DeleteObjects: 0.092800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002616 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.092 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3320.
+Total: 3.137400 ms (FindLiveObjects: 0.301900 ms CreateObjectMapping: 0.205400 ms MarkObjects: 2.559200 ms  DeleteObjects: 0.063700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003236 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.485 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3323.
+Total: 2.244900 ms (FindLiveObjects: 0.330100 ms CreateObjectMapping: 0.177300 ms MarkObjects: 1.615500 ms  DeleteObjects: 0.121000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002631 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.377 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3326.
+Total: 4.276000 ms (FindLiveObjects: 1.139400 ms CreateObjectMapping: 0.539500 ms MarkObjects: 2.513800 ms  DeleteObjects: 0.080800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003754 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.427 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3329.
+Total: 2.814200 ms (FindLiveObjects: 0.306900 ms CreateObjectMapping: 0.145800 ms MarkObjects: 2.140200 ms  DeleteObjects: 0.216100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3586.884363 seconds.
+  path: Assets/Standard Assets/Editor
+  artifactKey: Guid(27c4d80b87be2994d94f13d1200e07e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Editor using Guid(27c4d80b87be2994d94f13d1200e07e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef80da031f0d86304162f5b2e54c112') in 0.008410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.431785 seconds.
+  path: Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts
+  artifactKey: Guid(02bbdc4f655f4bd459f6b4d21fc34986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts using Guid(02bbdc4f655f4bd459f6b4d21fc34986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977ba1c654ab3c0ce6428c6e3684941a') in 0.003028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.837569 seconds.
+  path: Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/Exit.cs
+  artifactKey: Guid(05dfae40e53d9a9478b01603e02fa5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/Exit.cs using Guid(05dfae40e53d9a9478b01603e02fa5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1940e5f7b966be7e6c698165fdf80d6') in 0.011570 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003448 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.587 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3333.
+Total: 6.948000 ms (FindLiveObjects: 0.337900 ms CreateObjectMapping: 0.208700 ms MarkObjects: 6.306800 ms  DeleteObjects: 0.092900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004376 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.569 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3336.
+Total: 4.879800 ms (FindLiveObjects: 0.310500 ms CreateObjectMapping: 0.204200 ms MarkObjects: 4.271300 ms  DeleteObjects: 0.091700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002540 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.928 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3339.
+Total: 3.036800 ms (FindLiveObjects: 0.241400 ms CreateObjectMapping: 0.144200 ms MarkObjects: 2.587700 ms  DeleteObjects: 0.062200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003512 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.085 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3342.
+Total: 2.740300 ms (FindLiveObjects: 0.266000 ms CreateObjectMapping: 0.133600 ms MarkObjects: 2.281600 ms  DeleteObjects: 0.057800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002249 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.975 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3345.
+Total: 2.682300 ms (FindLiveObjects: 0.275100 ms CreateObjectMapping: 0.118100 ms MarkObjects: 2.231300 ms  DeleteObjects: 0.056600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002958 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.032 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3348.
+Total: 4.765800 ms (FindLiveObjects: 0.371400 ms CreateObjectMapping: 0.201900 ms MarkObjects: 4.127000 ms  DeleteObjects: 0.064000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 655.881854 seconds.
+  path: Assets/Audio/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7ce815469c0d52fc0ef46ee140023a') in 0.014131 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002979 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.095 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3351.
+Total: 2.902500 ms (FindLiveObjects: 0.261100 ms CreateObjectMapping: 0.169800 ms MarkObjects: 2.409300 ms  DeleteObjects: 0.061300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002630 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.177 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3354.
+Total: 4.487400 ms (FindLiveObjects: 0.352400 ms CreateObjectMapping: 0.288300 ms MarkObjects: 3.764300 ms  DeleteObjects: 0.080700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 328.446517 seconds.
+  path: Assets/Audio/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28e0de9f3cf49cee344c9468932f922b') in 0.015574 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003984 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3357.
+Total: 5.709600 ms (FindLiveObjects: 0.824600 ms CreateObjectMapping: 0.604200 ms MarkObjects: 4.206900 ms  DeleteObjects: 0.071700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003335 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.124 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 115.7 MB.
-System memory in use after: 115.9 MB.
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3227.
-Total: 3.019400 ms (FindLiveObjects: 0.322700 ms CreateObjectMapping: 0.193000 ms MarkObjects: 2.425300 ms  DeleteObjects: 0.076900 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3360.
+Total: 2.410500 ms (FindLiveObjects: 0.259300 ms CreateObjectMapping: 0.114000 ms MarkObjects: 1.982900 ms  DeleteObjects: 0.053400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 464.469873 seconds.
+  path: Assets/Audio/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52bee4743489c5d9ea94df9e574f0947') in 0.017305 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003063 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3363.
+Total: 2.640900 ms (FindLiveObjects: 0.238500 ms CreateObjectMapping: 0.129700 ms MarkObjects: 2.173100 ms  DeleteObjects: 0.098600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.653892 seconds.
+  path: Assets/Audio/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b34d7266f1f94a6f80a23de0cf3e434') in 0.014300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.143981 seconds.
+  path: Assets/Audio/Master.mixer
+  artifactKey: Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Master.mixer using Guid(60d8adaa90b3ac84dac23de3e93f1250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ca45d966a448234665002e8398e6d2') in 0.002999 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002235 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GUILLEM\UPC\20-21\DigitalAudio\Digital-Audio\DAP1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3366.
+Total: 2.840100 ms (FindLiveObjects: 0.284900 ms CreateObjectMapping: 0.128700 ms MarkObjects: 2.364500 ms  DeleteObjects: 0.060800 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

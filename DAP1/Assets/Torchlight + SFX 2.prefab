@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4088653363551541496}
   - component: {fileID: 4088653363551541497}
   - component: {fileID: 4088653363551541479}
-  - component: {fileID: 4088653363551541478}
+  - component: {fileID: 761159793}
   m_Layer: 0
   m_Name: Torchlight + SFX 2
   m_TagString: Untagged
@@ -92,6 +92,7 @@ Light:
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!114 &4088653363551541479
@@ -110,7 +111,7 @@ MonoBehaviour:
   speed: 1.5
   MakeSourceStationary: 1
   positionOffset: 0
---- !u!82 &4088653363551541478
+--- !u!82 &761159793
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -119,8 +120,8 @@ AudioSource:
   m_GameObject: {fileID: 4088653363551541498}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d6911bb5eb232ae469ffb797f591dd35, type: 3}
+  OutputAudioMixerGroup: {fileID: -3195309035071279503, guid: 60d8adaa90b3ac84dac23de3e93f1250, type: 2}
+  m_audioClip: {fileID: 8300000, guid: 107172457cf22a44eac581f1adabee85, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.15
   m_Pitch: 1
@@ -131,7 +132,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 2
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -166,7 +167,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
